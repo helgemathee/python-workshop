@@ -1,49 +1,53 @@
-
+Installation:
+   ☐ Git bash
+     google git for windows
+   ☐ Python
+     Ideally python 2.7x
+     Python 2.7 and 3.0 are not fully compliant
+   ☐ Sublime Text 2
+   ☐ Packagecontrol.io
+     Install package control as explained on their website.
+     You can access the console window inside of sublime through
+     view menu in case you have a german keyboard.
+   ☐ Code Jedi
+     Ctrl+Shift+P -> Install -> Jedi
+   ☐ Workshop project folder
 
 Basics:
- ☐ Names
- ☐ Operators
- ☐ Variables
- ☐ Functions (Parameters, default Parameters etc)
+   ☐ Names
+   ☐ Operators
+   ☐ Variables
+   ☐ Functions (Parameters, default Parameters etc)
 
  Control Structures:
    ☐ If elif else
-   ☐ for
+   ☐ recursions
    ☐ while
+   ☐ for
 
  High level data structures:
    ☐ Arrays / Lists / Tuples
    ☐ Dictionaries
 
  Objects:
+   To be covered in a later session.
    ☐ Classes
    ☐ Public vs private properties
    ☐ Inheritance
-
-Debugging:
-  ☐ Understanding the call stack
-  ☐ Finding errors
+   ☐ Impl vs Class
 
 Modules:
-  ☐ Init python file
-  ☐ Python path env var
-  ☐ Impl vs Class
+   ☐ Init python file
+   ☐ Python path env var
 
 Project tool:
- Generate a folder structure for a 3D project automatically 
- ☐ os.path module
- ☐ Learn how to inspect files
- ☐ Create a single folder 
- ☐ Use an array to define the structure and create it automatically
-
-Renaming tool:
- renaming an image sequence - string manipulation 
- ☐ Using command line arguments
- ☐ glob module
- ☐ os.path for file name splitting
- ☐ Basic string manipulation, rpartition, split, join etc
+   Generate a folder structure for a 3D project automatically 
+   ☐ sys module
+   ☐ os.path module
+   ☐ Use an array to define the structure and create it automatically
 
 Softimage Pass Generator:
- ☐ Python in softimage
- ☐ Using an array to define multiple passes
- ☐ Talk about generalization, inheritance - how to make a tool generic between DCCs
+   ☐ win32 for Python (installation)
+   ☐ Python in softimage
+   ☐ Using an array to define multiple passes
+   ☐ Talk about generalization, inheritance - how to make a tool generic between DCCs
