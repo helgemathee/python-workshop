@@ -1,0 +1,49 @@
+
+
+Basics:
+ ☐ Names
+ ☐ Operators
+ ☐ Variables
+ ☐ Functions (Parameters, default Parameters etc)
+
+ Control Structures:
+   ☐ If elif else
+   ☐ for
+   ☐ while
+
+ High level data structures:
+   ☐ Arrays / Lists / Tuples
+   ☐ Dictionaries
+
+ Objects:
+   ☐ Classes
+   ☐ Public vs private properties
+   ☐ Inheritance
+
+Debugging:
+  ☐ Understanding the call stack
+  ☐ Finding errors
+
+Modules:
+  ☐ Init python file
+  ☐ Python path env var
+  ☐ Impl vs Class
+
+Project tool:
+ Generate a folder structure for a 3D project automatically 
+ ☐ os.path module
+ ☐ Learn how to inspect files
+ ☐ Create a single folder 
+ ☐ Use an array to define the structure and create it automatically
+
+Renaming tool:
+ renaming an image sequence - string manipulation 
+ ☐ Using command line arguments
+ ☐ glob module
+ ☐ os.path for file name splitting
+ ☐ Basic string manipulation, rpartition, split, join etc
+
+Softimage Pass Generator:
+ ☐ Python in softimage
+ ☐ Using an array to define multiple passes
+ ☐ Talk about generalization, inheritance - how to make a tool generic between DCCs
