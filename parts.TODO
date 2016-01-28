@@ -33,6 +33,9 @@ Modules:
    ☐ Init python file
    ☐ Python path env var
 
+IO:
+   ☐ Reading and writing json
+
  Objects:
    ☐ Classes
    ☐ Impl vs Class
