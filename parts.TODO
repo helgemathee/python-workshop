@@ -29,22 +29,25 @@ Basics:
    ☐ Arrays / Lists / Tuples
    ☐ Dictionaries
 
- Objects:
-   To be covered in a later session.
-   ☐ Classes
-   ☐ Public vs private properties
-   ☐ Inheritance
-   ☐ Impl vs Class
-
 Modules:
    ☐ Init python file
    ☐ Python path env var
+
+ Objects:
+   ☐ Classes
+   ☐ Impl vs Class
+   ☐ Public vs private properties
+   ☐ Inheritance
 
 Project tool:
    Generate a folder structure for a 3D project automatically 
    ☐ sys module
    ☐ os.path module
    ☐ Use an array to define the structure and create it automatically
+
+Backup tool:
+   Generate a zip file while filtering which files to store
+   ☐ zip module
 
 Softimage Pass Generator:
    ☐ win32 for Python (installation)
