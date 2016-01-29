@@ -29,18 +29,28 @@ Basics:
    ☐ Arrays / Lists / Tuples
    ☐ Dictionaries
 
+IO:
+   ☐ Reading and writing json
+   ☐ Reading / writing Excel files
+
 Modules:
    ☐ Init python file
    ☐ Python path env var
-
-IO:
-   ☐ Reading and writing json
 
  Objects:
    ☐ Classes
    ☐ Impl vs Class
    ☐ Public vs private properties
    ☐ Inheritance
+
+Creating errors:
+   ☐ try / catch
+   ☐ raise
+
+User interface:
+   ☐ PySide introduction
+   ☐ User info dialog
+   ☐ Full application
 
 Project tool:
    Generate a folder structure for a 3D project automatically 
