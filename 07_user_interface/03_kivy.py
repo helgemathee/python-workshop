@@ -1,6 +1,10 @@
+#qpy:kivy
 # of course we need kivy for this
 #   pip install --upgrade pip wheel setuptools
 #   pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew kivy.deps.gstreamer --extra-index-url https://kivy.org/downloads/packages/simple/
+
+import kivy
+kivy.require("1.0.6") 
 
 from kivy.app import App
 from kivy.uix.button import Button
