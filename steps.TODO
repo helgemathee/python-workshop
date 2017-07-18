@@ -1,0 +1,48 @@
+
+Basics
+-------------
+ ☐ Names
+ ☐ Operators
+ ☐ Variables
+ ☐ Functions + arguments
+
+Control Structures
+----------------------
+ ☐ If
+ ☐ Recursion
+ ☐ While
+ ☐ For
+
+Data Structures
+--------------------
+ ☐ Arrays
+ ☐ Dictionaries
+ ☐ Passing dictionaries as arguments
+
+Modules
+------------------
+ ☐ import
+ ☐ from ... import
+
+IO
+------
+ ☐ os Module
+ ☐ sys Module
+ ☐ JSON loading + saving
+ ☐ Interacting with Excel
+
+Object orientation
+-------------------
+ ☐ Objects + methods
+ ☐ Inheritance
+
+User Interface
+------------------
+ ☐ PySide Dialog
+ ☐ PySide Application
+ ☐ Kivy
+
+Full applications
+---------------------
+ ☐ Project generator
+ ☐ Backup a complete folder
